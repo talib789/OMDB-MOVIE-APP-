@@ -12,11 +12,11 @@
 
 ![landing](https://snipboard.io/Ao1he6.jpg)
 
-![search]()
+![search](https://snipboard.io/8p57zM.jpg)
 
-![pushpa]()
+![Heropanti](https://snipboard.io/zAsOeX.jpg)
 
-![the_office]()
+![the_office](https://snipboard.io/ydYMze.jpg)
 
 ## Tech Stack
 
