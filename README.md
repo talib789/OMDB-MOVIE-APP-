@@ -10,7 +10,7 @@
 
 ## Here are some screenshots -
 
-![landing](snipboard.io/Ao1he6.jpg)
+![landing](https://snipboard.io/Ao1he6.jpg)
 
 ![search]()
 
